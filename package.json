@@ -1,5 +1,6 @@
 {
   "name": "vite-react-typescript-starter",
+  "homepage": "https://amirh031.github.io/FlashRecall/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
